@@ -1,7 +1,7 @@
 <div align="center">
 
 # ADAPT
-### Stop studying harder. Start studying your way.
+### *Stop studying harder. Start studying your way.*
 
 </div>
 
